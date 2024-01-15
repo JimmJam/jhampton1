@@ -1,1 +1,2 @@
-# jhampton1
+# James Hampton
+OPS445, Seneca College
